@@ -7,7 +7,9 @@ tags:
 image: /images/portfolio_06.jpg
 ---
 
-<img src="/images/portfolio_06.jpg" style="width:100%;max-width:600px;">
+<a href="https://ge.hanbiton.com/event/2015/02/20150213wond/event.aspx" target="_blank">
+  <img src="/images/portfolio_06.jpg" style="width:100%;max-width:600px;">
+</a>
 
 ***
 
