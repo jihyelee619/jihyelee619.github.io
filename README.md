@@ -1,2 +1,2 @@
-# siera
-jekyll theme
+# 이지혜
+포트폴리오 사이트 입니다
