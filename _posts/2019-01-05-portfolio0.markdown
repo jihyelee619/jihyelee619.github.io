@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "여행상품 프로모션"
+date:   2019-01-05 16:52:07
+categories: jekyll update
+tags:
+image: /images/portfolio_07.jpg
+---
+
+<img src="/images/portfolio_07.jpg" style="width:100%;max-width:335px;">
+
+***
+
+**Skill** : html, css, javascript, mobile  
+**작업기간** : 2주  
+**기여도** : 100%  
+- 원활한 협업을 위해 컴포넌트 가이드를 제작하였습니다.
+- 기존 모바일 CMS 이미지 태그 컨테이너는 javascript로 가운데 정렬 대응이 가능했으나,  javascript로 이미지 비율만 파악되면 css로 모든 비율의 이미지를 컨테이너 사이즈에 맞추어 가운데 정렬되도록 하여 운영 효율성을 높였습니다. 
+- 폰트사이즈 정의의 편리를 위해 rem단위를 활용했습니다.
+
+

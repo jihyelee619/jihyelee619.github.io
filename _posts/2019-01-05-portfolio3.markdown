@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "웹 어플리케이션"
+date:   2019-01-05 16:52:07
+categories: jekyll update
+tags:
+image: /images/portfolio_06.jpg
+---
+
+<img src="/images/portfolio_06.jpg" style="width:100%;max-width:600px;">
+
+
+**Skill** : html5, css, javaScript, Angular.js  
+**작업기간** : 6개월  
+**기여도** : 60%  
+- AngulerJS를 이용하여 웹앱의 프론트엔드 개발을 하였습니다. 
+- 라이브러리를 이용하여 달력과 지도 데이터등의 추가, 삭제, 수정, 조회 기능과 웹소켓을 이용한 대화방의 프론트를 구현하였습니다.
+- 기존에 jQuery에 한정되어있던 스크립트 역량을 프로그래밍 관점으로 확장시킬 수 있었습니다.
+

@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "미니게임"
+date:   2019-01-05 16:52:07
+categories: jekyll update
+tags:
+image: /images/portfolio_05.jpg
+---
+
+<a href="http://www.naver.com" target="_blank" title="포트폴리오 보러가기">
+    <img src="/images/portfolio_05.jpg" style="width:100%;max-width:600px;">
+</a>
+
+**Skill** : html, css, javascript, ajax, 크로스브라우징  
+**작업기간** : 3주  
+**기여도** : 100%  
+- 웹페이지에서 슬롯머신을 돌려 랜덤하게 아이템을 얻는 미니게임을 구현하였습니다. 
+- 서버 개발자와 협의하여 ajax로 json패킷을 받아 클라이언트에 반영했습니다.    서버개발자와 소통하는법, 데이터를 받아 UI에 반영하고 관리하는 방식에 대해 배웠습니다.
+
+

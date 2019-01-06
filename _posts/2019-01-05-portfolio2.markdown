@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "신규 캐릭터 프로모션"
+date:   2019-01-05 16:52:07
+categories: jekyll update
+tags:
+image: /images/portfolio_06.jpg
+---
+
+<img src="/images/portfolio_06.jpg" style="width:100%;max-width:600px;">
+
+***
+
+**Skill** : html, css, javascript, 크로스브라우징  
+**작업기간** : 1주일  
+**기여도** : 100%  
+- 신규캐릭터 소개 페이지에서 2명의 캐릭터를 한눈에 구경할 수 있는 UI를 구현하였습니다.
+
+
