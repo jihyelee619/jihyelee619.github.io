@@ -10,7 +10,7 @@ image: /images/portfolio_04.jpg
 .post > .image.featured {display:none!important}
 </style>
 <div style="overflow:hidden;">
-    <a href="http://www.naver.com" style="float:left;width:50%;">
+    <a href="https://ge.hanbiton.com/event/2015/05/20150513mmew/event.aspx" style="float:left;width:50%;" target="_blank">
         <img src="/images/portfolio_01.jpg" alt="그라나도 에스파다 티저 이미지" style="width:100%;height:auto;object-fit:contain;">
         <p>
             프로젝트명 : 새 시대의 인도자 epiode1<br>
@@ -18,7 +18,7 @@ image: /images/portfolio_04.jpg
             기여도 : 100%<br>
         </p>
     </a>
-    <a href="http://www.naver.com" style="float:left;width:50%;">
+    <a href="https://ge.hanbiton.com/event/2015/05/20150513mmew/event.aspx" style="float:left;width:50%;" target="_blank">
         <img src="/images/portfolio_02.jpg" alt="그라나도 에스파다 티저 이미지" style="width:100%;height:auto;object-fit:contain;">
         <p>
             프로젝트명 : 새 시대의 인도자 epiode2<br>
@@ -26,7 +26,7 @@ image: /images/portfolio_04.jpg
             기여도 : 100%<br>
         </p>
     </a>
-    <a href="http://www.naver.com" style="float:left;width:50%;">
+    <a href="http://ge.hanbiton.com/event/2015/07/20150716chin/event.aspx" style="float:left;width:50%;" target="_blank">
         <img src="/images/portfolio_03.jpg" alt="그라나도 에스파다 티저 이미지" style="width:100%;height:auto;object-fit:contain;">
         <p>
             프로젝트명 : 새 시대의 인도자 epiode3<br>
@@ -34,7 +34,7 @@ image: /images/portfolio_04.jpg
             기여도 : 100%<br>
         </p>
     </a>
-    <a href="http://www.naver.com" style="float:left;width:50%;">
+    <a href="http://ge.hanbiton.com/event/2015/12/20151210dlff/event.aspx" style="float:left;width:50%;" target="_blank">
         <img src="/images/portfolio_04.jpg" alt="그라나도 에스파다 티저 이미지" style="width:100%;height:auto;object-fit:contain;">
         <p>
             프로젝트명 : The Symphonia<br>
