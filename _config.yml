@@ -4,7 +4,7 @@ email: ilovej619@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   이런곳엔 뭘써야 잘썼다고 소문이 날까
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "jihyelee619.github.io" # the base hostname & protocol for your site
+url: "https://jihyelee619.github.io" # the base hostname & protocol for your site
 twitter_username: not
 github_username:  jihyelee619
 
