@@ -7,7 +7,7 @@ tags:
 image: /images/portfolio_05.jpg
 ---
 
-<a href="http://www.naver.com" target="_blank" title="포트폴리오 보러가기">
+<a href="https://www.facebook.com/hanbitsoft.kr/videos/4%EC%9B%94_%ED%96%89%EC%9A%B4%EC%9D%98-%ED%8C%8C%EC%8B%9C%EC%98%A8/1948887625123948/" target="_blank">
     <img src="/images/portfolio_05.jpg" style="width:100%;max-width:600px;">
 </a>
 
