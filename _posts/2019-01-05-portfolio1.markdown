@@ -7,13 +7,15 @@ tags:
 image: /images/portfolio_08.jpg
 ---
 
-<img src="/images/portfolio_08.jpg" style="width:100%;max-width:335px;">
+<a href="http://www.chaessi.com/mobile/mileage_club/guide.html" target="_blank">
+  <img src="/images/portfolio_08.jpg" style="width:100%;max-width:335px;">
+</a>
 
 ***
 
 **Skill** : html, css, javascript, mobile
 **작업기간** : 2주  
 **기여도** : 100%  
-- 추후 운영 효율을 위해 컴포넌트 가이드를 제작하였습니다. 페이지 단위 퍼블리싱이 아닌 컴포넌트 단위 퍼블리싱을 목표로 작업하였습니다.
+- 추후 운영 효율을 위해 컴포넌트 가이드를 제작하였습니다. 페이지 단위가 아닌 컴포넌트 단위 사고를 목표로 작업하였습니다.
 
 
