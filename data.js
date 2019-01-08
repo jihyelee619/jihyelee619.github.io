@@ -1,0 +1,1 @@
+var itemsValue = [1, 2, 3]
